@@ -1,0 +1,74 @@
+# .npmignore for CoreKineticJS
+
+# Source files
+src/
+
+# Test files
+tests/
+__tests__/
+*.test.js
+*.spec.js
+
+# Documentation
+docs/
+*.md
+!README.md
+!LICENSE.md
+
+# Configuration files
+.eslintrc.js
+.prettierrc
+tsconfig.json
+jest.config.js
+rollup.config.js
+
+# Git related
+.git/
+.gitignore
+
+# CI/CD
+.travis.yml
+.github/
+
+# Development scripts
+scripts/
+
+# Examples and demos
+examples/
+demos/
+
+# Editor configs
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Build artifacts
+coverage/
+
+# Temporary files
+.tmp/
+.temp/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Benchmark files
+benchmark/
+
+# Known Issues and Future Improvements (we might want to include these, but typically they're for development)
+Known Issues.md
+Future Improvements.md
