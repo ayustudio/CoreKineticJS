@@ -41,3 +41,5 @@ The CoreKineticJS team is committed to continuously improving the library. Here 
 10. Build and Bundle Optimizations:
     - Implement tree-shaking to allow users to include only the features they need.
     - Explore ways to further reduce the library's file size without compromising functionality.
+
+We welcome community input on these planned improvements. If you have suggestions or would like to contribute to any of these efforts, please visit our GitHub repository or join our community discussions.
