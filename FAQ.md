@@ -1,6 +1,3 @@
-
-### FAQ.md
-```markdown
 # Frequently Asked Questions
 
 ## General
